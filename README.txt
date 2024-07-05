@@ -28,8 +28,8 @@ The folder is composed of three notebook .ipynb files created in Jupyter:
 - VAE-2.ipynb corresponding to experiment 2
 - VAE-3.ipynb corresponding to experiment 3
 
-The .rds sets that were converted in R to csv.
-The csv files, of which only reference_preprocessed2.csv will be used in the final experiments.
+Access to the data is through the following link:
+https://drive.google.com/drive/folders/13Wz4z1PA9cfb7LErZKHGff-Int_VBsF7?usp=sharing
 
 To visualize each of the experiments, it is sufficient to open each of the notebooks (VAE-1, VAE-2, VA
 *** Translated with www.DeepL.com/Translator (free version) ***
