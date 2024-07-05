@@ -10,6 +10,5 @@ Los archivos csv, de los que solo se usará reference_preprocessed2.csv en los e
 
 Para visualizar cada uno de los experimentos es suficiente con abrir cada uno de los notebook (VAE-1, VAE-2, VAE-3).
 
-Además, se incluye otra carpeta 'Memoria' con el la memoria TFG en PDF. 
 
 
